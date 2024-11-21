@@ -1,1 +1,1 @@
-WEBPAGE : gameszone.ccbp.tech
+WEBPAGE : https://gameszone.ccbp.tech/
